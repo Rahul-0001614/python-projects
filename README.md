@@ -20,7 +20,10 @@
                  Log	                natural logarithm, take the log of
                  SIN	                sine function
                  COS	                cosine function
-                 TAN	                 tangent function
+                 TAN	                 tangent function     
+
+
+3 ) uses of fuction buttons :-
 
 
 

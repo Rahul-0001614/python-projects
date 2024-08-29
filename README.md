@@ -31,5 +31,6 @@
         8.  log          -  the log key is used for calculations of the form  log 10 x .
         9.  x2(square)   -  we can find the square of any number.find out the square of 3 so enter number 3 and then press the x2 button so result coming is 9.
         10. pi           -  pi is displayed as 3.141592654
+    
 
 		      

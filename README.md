@@ -24,12 +24,13 @@
 
 
 3 ) Which Keys to Press and When to Press Them
-Here are some example calculations and how to determine the correct way to enter them. Whenever you borrow someone's calculator, get into the habit of performing these simple tests to make sure you're using it correctly.
 
-Square Root: Find the square root of 4. You know the answer is 2 (right?). On your calculator, find out whether you need to enter 4 and then press the SQRT key or whether you hit the SQRT key and then enter 4. 
-Taking the Power: The key may be marked xy or yx. You need to find out whether the first number you enter is the x or the y. Test this by entering 2, power key, 3. If the answer was 8, then you took 23, but if you got 9, the calculator gave you 32.
-10x: Again, test to see whether you press the 10x button and then enter your x or whether you enter the x value and then press the button. This is critical for science problems, where you'll live in the land of scientific notation!
-Trig Functions: When you're working with angles, keep in mind many calculators let you select whether to express the answer in degrees or radians. Then, you need to determine whether you enter the angle (check the units) and then sin, cos, tan, etc., or whether you press the sin, cos, etc., button and then enter the number. How do you test this: Remember the sine of a 30-degree angle is 0.5. Enter 30 and then SIN and see if you get 0.5. No? Try SIN and then 30. If you get 0.5 using one of these methods, then you know which works. However, if you get -0.988 then your calculator is set to radian mode. To change to degrees, look for a MODE key. There is often an indicator of units written right up with the numerals to let you know what you're getting.
+     - Here are some example calculations and how to determine the correct way to enter them.
+
+            1)Square Root: Find the square root of 4. You know the answer is 2 . On your calculator, find out whether you need to enter 4 and then press the SQRT key or whether you hit the SQRT key and then enter 4. 
+            2)Taking the Power: The key may be marked xy or yx. You need to find out whether the first number you enter is the x or the y. Test this by entering 2, power key, 3. If the answer was 8, then you took 23, but if you got 9, the calculator gave you 32.
+            3)10x: Again, test to see whether you press the 10x button and then enter your x or whether you enter the x value and then press the button. This is critical for science problems, where you'll live in the land of scientific notation!
+            4)Trig Functions: When you're working with angles, keep in mind many calculators let you select whether to express the answer in degrees or radians. Then, you need to determine whether you enter the angle (check the units) and then sin, cos, tan, etc., or whether you press the sin, cos, etc., button and then enter the number. How do you test this: Remember the sine of a 30-degree angle is 0.5. Enter 30 and then SIN and see if you get 0.5. No? Try SIN and then 30. If you get 0.5 using one of these methods, then you know which works. However, if you get -0.988 then your calculator is set to radian mode. To change to degrees, look for a MODE key. There is often an indicator of units written right up with the numerals to let you know what you're getting.
 Ci
 
 

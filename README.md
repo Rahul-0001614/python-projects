@@ -25,6 +25,11 @@
 
 3 ) uses of fuction buttons :-
 
+                operation         Mathematical Fuction
+		   +                    addition
+		   -                    subtraction
+                   *                    multiplycation
+
 
 
 

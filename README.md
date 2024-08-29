@@ -9,6 +9,12 @@
 
 2 ) fuction of scientific calculator :- 
 
+        1. + is represents addition
+	2. - is represents subtraction
+        3. * is represents multiplication
+	4. / is repsesents divided by
+        5. % is repsesents divison by
+
              operation	          Mathematical Fuction
                  +	                plus or addition
                  -	                minus or subtraction 

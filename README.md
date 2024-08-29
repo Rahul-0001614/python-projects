@@ -13,9 +13,9 @@
                      +	                plus or addition
                      -	                minus or subtraction 
                      *	                times, or multiply by
-                     / or ÷	        divided by, division by
+                  / or ÷	        divided by, division by
                      ^	                raised to the power of
-                   yx or xy	        y raised to the power x or x raised to the y
+                  yx or xy	        y raised to the power x or x raised to the y
                   Sqrt or √	        square ro
                      Log	        natural logarithm, take the log of
                      SIN	        sine function
